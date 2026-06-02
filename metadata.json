@@ -1,0 +1,6 @@
+{
+  "name": "Fractol Frontier",
+  "description": "Futuristic mathematical universe. Learn advanced math for competitive exams (IIT JAM, CSIR NET, GATE) with interactive lessons, bilingual mock tests, and AI doubt solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
